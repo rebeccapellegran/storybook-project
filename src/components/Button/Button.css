@@ -1,0 +1,27 @@
+button {
+    border-radius: 2px;
+    padding: 5px 25px;
+}
+
+.button-large{
+    padding: 10px 50 px;
+}
+.button-primary {
+    background-color: #0069D9;
+    color: white;
+    border: #0069D9;
+}
+
+.button-.button-primary {
+    background-color: #053263;
+    color: white;
+    border: #053263;
+}
+
+.button-danger {
+    background-color: #D72E3C;
+    color: white;
+    border: #D72E3C;
+}
+
+
